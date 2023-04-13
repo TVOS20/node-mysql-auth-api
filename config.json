@@ -1,9 +1,9 @@
 ﻿{
     "database": {
-        "host": "localhost",
+        "host": "185.249.224.52",
         "port": 3306,
-        "user": "root",
-        "password": "",
-        "database": "node-mysql-crud-api"
+        "user": "u570992989_api",
+        "password": "Asdf1234",
+        "database": "u570992989_api"
     }
 }
