@@ -1,18 +1,10 @@
 ﻿{
     "database": {
-        "host": "185.249.224.52",
-        "port": 3306,
-<<<<<<< HEAD
-        "user": "root",
-        "password": "",
-        "database": "node-mysql-crud-api"
-    },
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "", 
+    "database": "node-mysql-crud-api"
+},
     "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
-
-=======
-        "user": "u570992989_api",
-        "password": "Asdf1234",
-        "database": "u570992989_api"
-    }
->>>>>>> e466920edc975feb1ffeb704a54c565f61a38d2e
 }
